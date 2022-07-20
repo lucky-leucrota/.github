@@ -1,2 +1,3 @@
-# .github
-The Description of the Team
+# lucky-leucrota
+
+This is the team for the CJ-9 CodeJam
